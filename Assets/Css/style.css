@@ -105,9 +105,13 @@ body {
     text-decoration: none;
 }
 
-#social a:hover {
-    cursor: pointer;
+.fab {
+    color: grey;
+}
+
+.fab:hover {
     color: red;
+    cursor: pointer;
 }
 
 footer {
