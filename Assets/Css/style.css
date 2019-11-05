@@ -32,6 +32,7 @@
                                             #main-nav {
                                                 float: right;
                                                 margin: 20px 0px;
+                                                
                                                 font-size: 20px;
                                                 padding: 20px;
                                                 margin-right: 160px;
@@ -41,6 +42,7 @@
                                             #main-nav a {
                                                 padding: 15px;
                                                 text-decoration: none;
+                                                margin-right:20px;
                                             }
                                             
                                             #main-nav a:hover {
